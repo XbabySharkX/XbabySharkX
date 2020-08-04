@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello Human! 👋
 
 <!--
 **XbabySharkX/XbabySharkX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
