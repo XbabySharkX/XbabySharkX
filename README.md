@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm just a prankster.
 -->
-
+[![XbabySharkX github stats](https://github-readme-stats.vercel.app/api?username=XbabySharkX&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
