@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+<!-- Optional if you have blogs -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- This section you create this variables that are used above -->
 [website]: https://www.anwarweb.my.id/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
