@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm just a prankster.
 -->
-[![XbabySharkX github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XbabysharkX&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact)](https://github.com/XbabySharkX)
+[![XbabySharkX github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XbabysharkX&count_private=true&include_all_commits=true&theme=radical)](https://github.com/XbabySharkX)
 [![XbabySharkX github stats](https://github-readme-stats.vercel.app/api?username=XbabySharkX&count_private=true&include_all_commits=true&theme=radical)](https://github.com/XbabySharkX)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
