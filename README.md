@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
 ## GitHub Stats
-https://github-profile-trophy.vercel.app/?username=xbabysharkx&theme=onedark&no-frame=true
+src="https://github-profile-trophy.vercel.app/?username=xbabysharkx&theme=onedark&no-frame=true" style="max-width: 100%;">
 
