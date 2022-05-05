@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 [website]: https://www.anwarweb.my.id/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
+## GitHub Stats
+https://github-profile-trophy.vercel.app/?username=xbabysharkx&theme=onedark&no-frame=true
+
