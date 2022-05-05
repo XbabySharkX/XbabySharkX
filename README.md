@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
 ## GitHub Stats
-src="https://github-profile-trophy.vercel.app/?username=xbabysharkx&theme=onedark&no-frame=true" style="max-width: 100%;">
-
+<img src="https://camo.githubusercontent.com/c0fea1c1cd96e232ec58a4c924a194088e6a96519a98f15d6692751c39150d3c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6461666661696e666f267468656d653d6f6e656461726b266e6f2d6672616d653d7472756526636f6c756d6e3d37" data-canonical-src="https://github-profile-trophy.vercel.app/?username=xbabysharkx&theme=onedark&no-frame=true" style="max-width: 100%;">
