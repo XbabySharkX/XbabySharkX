@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm just a prankster.
 -->
 [![XbabySharkX github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XbabysharkX&count_private=true&include_all_commits=true&theme=radical&layout=compact)](https://github.com/XbabySharkX)
+
 [![XbabySharkX github stats](https://github-readme-stats.vercel.app/api?username=XbabySharkX&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/XbabySharkX)
 [![XbabySharkX github stats](https://github-readme-streak-stats.herokuapp.com/?user=XbabySharkX&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/XbabySharkX)
 ## Connect with me:
