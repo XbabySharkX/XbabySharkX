@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 [website]: https://www.anwarweb.my.id/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/snake.svg" alt="Snake animation" />
