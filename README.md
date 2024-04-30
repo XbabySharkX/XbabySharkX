@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 [![XbabySharkX github stats](https://github-readme-stats.vercel.app/api?username=XbabySharkX&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/XbabySharkX)
 
 [![XbabySharkX github stats](https://github-readme-streak-stats.herokuapp.com/?user=XbabySharkX&show_icons=true&count_private=true&include_all_commits=true&theme=radical&icon_color=5C9FF0)](https://github.com/XbabySharkX)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/snake.svg" alt="Snake animation" />
+
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -38,7 +44,3 @@ Here are some ideas to get you started:
 [website]: https://www.anwarweb.my.id/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/snake.svg" alt="Snake animation" />
