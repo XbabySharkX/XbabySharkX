@@ -32,6 +32,13 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/snake.svg" alt="Snake animation" />
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/XbabySharkX/XbabySharkX/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
