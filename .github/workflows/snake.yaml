@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: XbabySharkX
@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: push snake
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
